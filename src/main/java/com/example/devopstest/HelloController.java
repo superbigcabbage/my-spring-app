@@ -10,5 +10,5 @@ public class HelloController {
     public String sayHello() {
         return "Hello, DevOps! My First Spring Boot App is Running!";
     }
-    //this is nothing
+    //
 }
